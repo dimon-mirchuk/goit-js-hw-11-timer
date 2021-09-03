@@ -2,7 +2,8 @@ body {
 }
 .timer {
   display: inline-flex;
-  width: 25%;
+  justify-content: center;
+  width: 100%;
   padding: 42px 12px 28px;
   font-family: "Roboto";
   font-size: 20px;
